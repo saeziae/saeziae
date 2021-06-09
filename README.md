@@ -22,4 +22,4 @@ Here is Estela. 可以叫我山前
   Ubuntu and Manjaro user.
 
 
-<img align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=saeziae&show_icons=true">
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=saeziae&show_icons=true">
