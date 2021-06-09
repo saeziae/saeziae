@@ -1,8 +1,6 @@
 ### Hi there 👋
 Here is Estela. 可以叫我山前
 
-<img align="right" alt="GitHub stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=saeziae&show_icons=true">
-
 [![Twitter](https://img.shields.io/badge/Twitter-@saeziae-blue?style=flat-square&logo=twitter)](https://twitter.com/saeziae) [![Email](https://img.shields.io/static/v1?label=email&message=i@estela.cn&color=blue&style=flat-square)](mailto:i@estela.cn)
 
 - Pronouns: She/her
@@ -22,3 +20,6 @@ Here is Estela. 可以叫我山前
 - 💻 Panasonic CF-SZ5, Lenovo Yoga Pro 13s 2021 Carbon, wanting an ARM PC.
 
   Ubuntu and Manjaro user.
+
+
+<img align="right" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=saeziae&show_icons=true">
