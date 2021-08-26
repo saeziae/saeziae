@@ -1,6 +1,8 @@
 ### Hi there 👋
 Here is Estela. 可以叫我山前
 
+Welcome to my [homepage](https://estela.cn/)
+
 [![Twitter](https://img.shields.io/badge/Twitter-@saeziae-blue?style=flat-square&logo=twitter)](https://twitter.com/saeziae) [![Email](https://img.shields.io/static/v1?label=email&message=i@estela.cn&color=blue&style=flat-square)](mailto:i@estela.cn)
 
 - Pronouns: She/her
@@ -15,11 +17,11 @@ Here is Estela. 可以叫我山前
 
 - ⭐ Interested in linguistics, NLP and ML, and other things.
 
-- ⌨️ Python PHP Rust YAML
+- ⌨️ Python PHP Rust
 
-- 💻 Panasonic CF-SZ5, Lenovo Yoga Pro 13s 2021 Carbon, wanting an ARM PC.
+- 💻 Panasonic CF-SZ5, wanting an ARM PC.
 
-  Ubuntu and Manjaro user.
+ - Manjaro user.
 
 
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=saeziae&show_icons=true">
