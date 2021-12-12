@@ -15,11 +15,11 @@ Welcome to my [homepage](https://estela.cn/)
 
 - 👩‍🎓 Majoring in language, not computer science.
 
-- ⭐ Interested in linguistics, NLP and ML, and other things.
+- ⭐ Interested in linguistics, NLP, and other things.
 
-- ⌨️ Python PHP Rust
+- ⌨️ Python PHP Rust <del>Php is the best language in the world</del>
 
-- 💻 Panasonic CF-SZ5, wanting an ARM PC.
+- Wanting an ARM PC.
 
  - Manjaro user.
 
