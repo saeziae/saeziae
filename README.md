@@ -21,7 +21,7 @@ Welcome to my [homepage](https://estela.cn/)
 
 - Wanting an ARM PC.
 
- - Manjaro user.
+- Arch Linux user.
 
 
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=saeziae&show_icons=true">
