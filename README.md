@@ -14,6 +14,6 @@ Welcome to my homepage <https://estela.moe>
 - ⭐ Interested in linguistics, NLP, and other things.
 - ⌨️ Python PHP Rust <del>Php is the best language in the world</del>
 - Wanting an ARM PC.
-- <img height="18" alt="🏳️‍⚧️" src="https://simpleicons.org/icons/archlinux.svg"/> Arch Linux user.
+- <img height="18" src="https://simpleicons.org/icons/archlinux.svg"/> Arch Linux user.
 
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=saeziae&show_icons=true">
