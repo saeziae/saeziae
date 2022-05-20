@@ -2,8 +2,6 @@
 
 Here is Estela. 可以叫我山前
 
-<img height="18" src="https://saeziae.github.io/moji/moji/trans.svg"/> <img height="18" src="https://saeziae.github.io/moji/moji/feminism.svg"/> <img height="18" src="https://saeziae.github.io/moji/moji/communism.svg"/> <img height="18" src="https://saeziae.github.io/moji/moji/fist.svg"/> <img height="18" src="https://saeziae.github.io/moji/moji/peace.svg"/> 
-
 - [请山前喝奶茶 Buy me a coffee](https://feed.saeziae.net/)
 - Homepage <https://estela.moe>
 - [![Twitter](https://img.shields.io/badge/Twitter-@saeziae-blue?style=flat-square&logo=twitter)](https://twitter.com/saeziae) [![Email](https://img.shields.io/static/v1?label=email&message=i@estela.cn&color=blue&style=flat-square)](mailto:i@estela.cn)
