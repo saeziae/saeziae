@@ -8,7 +8,7 @@ Homepage <https://estela.moe>
 
 🏳️‍⚧️ Trans pride. Pronouns: She/her. Co-founder and maintainer of [MtF.wiki](https://mtf.wiki) from [Project Trans](https://github.com/project-trans).
 
-🌐 en/es/zh/wuu. [Wu language](https://en.wikipedia.org/wiki/Wu_Chinese) native speaker. [Wu IME](https://nguphing.saeziae.net) is now available. There is also a [Suzhou Dialect Dictionary](https://suzhou.saeziae.net).
+🌐 en/es/wu/zh/(learning)ca. [Wu language](https://en.wikipedia.org/wiki/Wu_Chinese) native speaker. [Wu IME](https://nguphing.saeziae.net) is now available. There is also a [Suzhou Dialect Dictionary](https://suzhou.saeziae.net).
 
 Love bed. Love skirts. Love yummy food.
 
@@ -36,4 +36,5 @@ Arch Linux user, now on i3wm.
 - XMR `47qELcVWej3QYFHYZ9JX59QHgmz1eg5ZYGmyZ6wwZs2mYt71xXjAkzrPWvZ922g9jZRF9pEbbbV9QE7mmGArJu187YsXrrt`
 - ETH `0x888117715a884a7F84B88CBBBF7998745A5FF96D`
 - BCH `qrde9e0awf5uwe93g0e4r0gncjvkjd8v9vzp3vw503`
+- <a href='https://ko-fi.com/saeziae' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 - [CNY](https://feed.saeziae.net/)
