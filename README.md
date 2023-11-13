@@ -2,7 +2,7 @@
 
 Homepage <https://estela.moe>
 
-[![Mastodon](https://img.shields.io/static/v1?label=Mastodon&message=@mzk@nightcord.de&color=purple&style=for-the-badge&logo=mastodon)](https://twitter.com/saeziae)
+[![Mastodon](https://img.shields.io/static/v1?label=Mastodon&message=@mzk@nightcord.de&color=purple&style=for-the-badge&logo=mastodon)](https://nightcord.de/@mzk)
 
 [![Twitter](https://img.shields.io/badge/Twitter-@saeziae-blue?style=flat-square&logo=twitter)](https://twitter.com/saeziae) [![Email](https://img.shields.io/static/v1?label=email&message=i@estela.moe&color=blue&style=flat-square)](mailto:i@estela.moe)
 
