@@ -4,7 +4,7 @@ Homepage <https://estela.moe>
 
 [![Mastodon](https://img.shields.io/static/v1?label=Mastodon&message=@mzk@nightcord.de&color=purple&style=for-the-badge&logo=mastodon)](https://nightcord.de/@mzk)
 
-[![Twitter](https://img.shields.io/badge/Twitter-@saeziae-blue?style=flat-square&logo=twitter)](https://twitter.com/saeziae) [![Email](https://img.shields.io/static/v1?label=email&message=i@estela.moe&color=blue&style=flat-square)](mailto:i@estela.moe)
+[![Matrix](https://img.shields.io/static/v1?label=Matrix&message=@mzk:nightcord.de&color=pink&style=for-the-badge&logo=matrix)](https://matrix.to/#/@mzk:nightcord.de)
 
 🏳️‍⚧️ Trans pride. Pronouns: She/her. Co-founder and maintainer of [MtF.wiki](https://mtf.wiki) from [Project Trans](https://github.com/project-trans).
 
@@ -30,11 +30,11 @@ Arch Linux user, now on i3wm.
 
 ![Estela's GitHub stats](https://github-readme-stats.vercel.app/api?username=saeziae&show_icons=true)
 
-### Donate
+### Buy me a coffee
 
 - USDT(TRON) `TSJ28DVXHr21D5tS39gyT1T52UhVPzYCkw`
 - XMR `47qELcVWej3QYFHYZ9JX59QHgmz1eg5ZYGmyZ6wwZs2mYt71xXjAkzrPWvZ922g9jZRF9pEbbbV9QE7mmGArJu187YsXrrt`
 - ETH `0x888117715a884a7F84B88CBBBF7998745A5FF96D`
 - BCH `qrde9e0awf5uwe93g0e4r0gncjvkjd8v9vzp3vw503`
 - [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/saeziae)
-- [CNY](https://feed.saeziae.net/)
+- CNY: See my homepage
