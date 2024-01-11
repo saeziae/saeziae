@@ -6,7 +6,7 @@ Homepage <https://estela.moe>
 
 🏳️‍⚧️ Trans pride. Pronouns: She/her. Co-founder and maintainer of [MtF.wiki](https://mtf.wiki) from [Project Trans](https://github.com/project-trans).
 
-🌐 en/es/wu/zh/(learning)ca. [Wu language](https://en.wikipedia.org/wiki/Wu_Chinese) native speaker. [Wu IME](https://github.com/saeziae/nguphing) is now available. There is also a [Suzhou Dialect Dictionary](https://suzhou.saeziae.net).
+🌐 en/es/wu/zh/(learning)ca. [Wu language](https://en.wikipedia.org/wiki/Wu_Chinese) native speaker. [Wu IME](https://github.com/saeziae/rime_nguphing) is now available. There is also a [Suzhou Dialect Dictionary](https://suzhou.saeziae.net).
 
 Love bed. Love skirts. Love yummy food.
 
