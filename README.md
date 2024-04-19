@@ -2,7 +2,9 @@
 
 Homepage <https://estela.moe>
 
-[![Mastodon](https://img.shields.io/static/v1?label=Mastodon&message=@mzk@nightcord.de&color=purple&style=for-the-badge&logo=mastodon)](https://nightcord.de/@mzk) [![Matrix](https://img.shields.io/static/v1?label=Matrix&message=@mzk:nightcord.de&color=pink&style=for-the-badge&logo=matrix)](https://matrix.to/#/@mzk:nightcord.de)
+[![Mastodon Nightcord](https://img.shields.io/static/v1?label=Mastodon&message=@mzk@nightcord.de&color=purple&style=for-the-badge&logo=mastodon)](https://nightcord.de/@mzk) [![Matrix](https://img.shields.io/static/v1?label=Matrix&message=@mzk:nightcord.de&color=pink&style=for-the-badge&logo=matrix)](https://matrix.to/#/@mzk:nightcord.de)
+
+[![Mastodon Catcatnya](https://img.shields.io/static/v1?label=Mastodon&message=@sz@catcatnya.com&color=blue&style=for-the-badge&logo=mastodon)](https://catcatnya.com/@sz)
 
 🏳️‍⚧️ Trans pride. Pronouns: She/her. Co-founder and maintainer of [MtF.wiki](https://mtf.wiki) from [Project Trans](https://github.com/project-trans).
 
