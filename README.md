@@ -17,4 +17,4 @@ Co-founder and maintainer of [MtF.wiki](https://mtf.wiki) from [Project Trans](h
 
 [![Mastodon Catcatnya](https://img.shields.io/static/v1?label=Mastodon&message=@sz@catcatnya.com&color=blue&style=for-the-badge&logo=mastodon)](https://catcatnya.com/@sz) [![Matrix](https://img.shields.io/static/v1?label=Matrix&message=@saeziae:mozilla.org&color=orange&style=for-the-badge&logo=matrix)](https://matrix.to/#/@saeziae:mozilla.org)
 
-![My Skills](https://skillicons.dev/icons?i=linux,vim,bash,md,c,py,go,php,js,sass,react,git,latex,mysql,ps,ae,pr,au&perline=6)
+![My Skills](https://skillicons.dev/icons?i=linux,vim,bash,md,c,py,go,php,js,sass,react,git,latex,mysql&perline=6)
