@@ -1,4 +1,4 @@
-<img src="https://skillicons.dev/icons?i=fediverse" align="right"/>
+<a href="."><img src="https://skillicons.dev/icons?i=fediverse" align="right"/></a>
 
 [>Homepage](https://estela.moe)
 [>Pagina d'Inici](https://estela.cat)
