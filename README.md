@@ -1,20 +1,35 @@
-Meow-a. It is Estela(she/they) hugging the blåhaj, aka `saeziae` and 山前(pronounced sae-ziae in Wu).
+<img src="https://skillicons.dev/icons?i=fediverse" align="right"/>
 
-Developer, which means clicking the keyboard randomly, wishing it giving me the program I wanted. Still hoping to understand Rust. I use Arch, btw.
+[>Homepage](https://estela.moe)
+[>Pagina d'Inici](https://estela.cat)
+[>Blog](https://blog.estela.moe)
+[>Repo](https://repo.estela.moe)
 
-Linguistics, one of the most useless things in the world. I would be happy if you speaks [Wu language](https://en.wikipedia.org/wiki/Wu_Chinese), happier if you use [Wu IME](https://github.com/saeziae/rime_nguphing).
+[>Contact and social media](https://estela.moe/social)
+[>Buy me a relaxing café con leche](https://estela.moe/donate)
 
-\[SYSTEM: skip this line\] Always not doing anything for 25 hours a day and feeling bad and useless.
+PGP: [cedba39e576bc6c21b71a64825e82bbea32bd476](https://keyserver.ubuntu.com/pks/lookup?search=0xcedba39e576bc6c21b71a64825e82bbea32bd476&fingerprint=on&op=index)
 
-Love bed and yummy food, and cute skirts. Radomly recording my earth experience with film roll.
+💬: `wuu, zh, en, ca, es`
 
-Homepage <https://estela.moe>
+> Maybe my past isn't behind me, but in front of me. That's why I'm gonna keep going forward, one stop at a time... train or no train.
 
-Co-founder and maintainer of [MtF.wiki](https://mtf.wiki) from [Project Trans](https://github.com/project-trans).
+Meow mrrp! You have discovered Estela (she/they) hugging the blåhaj, aka `saeziae`.
 
-[![Mastodon Nightcord](https://img.shields.io/static/v1?label=Mastodon&message=@mzk@nightcord.de&color=purple&style=for-the-badge&logo=mastodon)](https://nightcord.de/@mzk) [![Matrix](https://img.shields.io/static/v1?label=Matrix&message=@mzk:nightcord.de&color=pink&style=for-the-badge&logo=matrix)](https://matrix.to/#/@mzk:nightcord.de)
+Computer science,<!--web, cybersecurity, machine learning, NLP--> which means clicking the keyboard randomly, wishing it giving me the program I wanted. Still hoping to understand Rust. I use arch, btw.
 
+Linguistics,<!-- Diachronic linguistics, historical Chinese phonology, generative grammar, Sino-Tibetan and Kra-Dai--> one of the most useless things in the world. I would be happy if you speak [Wu language](https://en.wikipedia.org/wiki/Wu_Chinese), happier if you use [Wu IME](https://github.com/saeziae/rime_nguphing).
 
-[![Mastodon Catcatnya](https://img.shields.io/static/v1?label=Mastodon&message=@sz@catcatnya.com&color=blue&style=for-the-badge&logo=mastodon)](https://catcatnya.com/@sz) [![Matrix](https://img.shields.io/static/v1?label=Matrix&message=@saeziae:mozilla.org&color=orange&style=for-the-badge&logo=matrix)](https://matrix.to/#/@saeziae:mozilla.org)
+Not doing anything for 25 hours a day and feeling bad and useless.
 
-![My Skills](https://skillicons.dev/icons?i=linux,vim,bash,md,c,py,go,php,js,sass,react,git,latex,mysql&perline=6)
+Love bed (so much!) and yummy food (and pineapple pizza), and cute skirts.
+
+Recording my earth experience with [film roll](https://estela.moe/pro#photo).
+
+I am sharing my photos [here](https://repo.estela.moe/wallpaper/).
+
+> I'm still me, but is that ok?
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=saeziae&show_icons=true&theme=dracula)
+
+![Skill icons](https://skillicons.dev/icons?i=c,py,pytorch,go,php,js,react,vite,vim,neovim,linux,arch,bash,git,docker,mysql,latex,sass&perline=6)
