@@ -1,4 +1,6 @@
-<a href="."><img src="https://skillicons.dev/icons?i=fediverse" align="right"/></a>
+<a href="//"><img src="https://skillicons.dev/icons?i=fediverse" align="right"/></a>
+
+check <https://git.gay/saeziae> for my shitgitting
 
 [>Homepage](https://estela.moe)
 [>Pagina d'Inici](https://estela.cat)
